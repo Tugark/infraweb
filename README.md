@@ -1,4 +1,4 @@
-Welcome to InfraWeb!
+# Welcome to InfraWeb!
 
 ## Why do we want to make this happen?
 ![image](https://github.com/Tugark/infraweb/assets/35687245/c6c617c6-ea09-4b21-b2b6-5047c36ffa67)
