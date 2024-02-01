@@ -55,7 +55,9 @@ export class AppComponent implements AfterViewInit {
   public async ngAfterViewInit() {
     this.initializeScene();
     await this.initializeFragmentIfcLoader()
-    FILES_TO_LOAD.forEach(fileToLoad => this.loadIfc(fileToLoad))
+    for (const fileToLoad of FILES_TO_LOAD) {
+      await this.loadIfc(fileToLoad)
+    }
   }
 
   private initializeScene() {
