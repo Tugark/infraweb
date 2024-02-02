@@ -2,10 +2,10 @@
 
 ## Why do we want to make this happen?
 ![image](https://github.com/Tugark/infraweb/assets/35687245/c6c617c6-ea09-4b21-b2b6-5047c36ffa67)
-"\n"
-"\n"
+<br/><br/>
+<br/><br/>
  ------------------------------------------------------------------------------------------------------------------
-"\n"
+<br/><br/>
 ## What is InfraWeb?
 ![image](https://github.com/Tugark/infraweb/assets/35687245/4fce2d12-8378-4d92-80bc-2d69813e4cd6)
 
