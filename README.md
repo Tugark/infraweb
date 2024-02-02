@@ -5,7 +5,7 @@
 ![image](https://github.com/Tugark/infraweb/assets/35687245/4fce2d12-8378-4d92-80bc-2d69813e4cd6)
 <br/><br/>
 ### Main goal: Web-application to navigate along an axis and create 2D-Sections that can be visualized and exported directly in the browser.
-<a href="/gif/der-provi-querprofileditor-AXuCXE" title="// Der ProVI Querprofileditor"><img src="https://i.makeagif.com/media/2-02-2024/AXuCXE.gif" alt="// Der ProVI Querprofileditor"></a><div style="font-size:11px;">make <a href="/" title="make a gif">transportation</a> like this at MakeaGif</div>
+<a href="/gif/der-provi-querprofileditor-AXuCXE" title="// Der ProVI Querprofileditor"><img src="https://i.makeagif.com/media/2-02-2024/AXuCXE.gif" alt="// Der ProVI Querprofileditor"></a><div style="font-size:11px;">make <a href="/" title=""</div>
 <br/><br/>
 ### Other goals: tbd.
 <br/><br/>
